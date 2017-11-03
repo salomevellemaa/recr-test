@@ -835,11 +835,11 @@
             <url>http://www.cvkeskus.ee/11276776</url>
         </jobad>
     </application>
-    <application id="10289458">
+    <application id="10289459">
         <created>2017-10-26 00:01:11</created>
         <cv>
-            <member_id>1486968</member_id>
-            <cv_id>1198499</cv_id>
+            <member_id>1486969</member_id>
+            <cv_id>1198500</cv_id>
             <cv_lang>
                 <![CDATA[ee]]>
             </cv_lang>
@@ -927,26 +927,14 @@
         </cv>
         <answers>
             <answer>
-                <![CDATA[halb halb]]>
-            </answer>
-            <answer>
-                <![CDATA[Hommik]]>
-            </answer>
-            <answer>
-                <![CDATA[1000 eur bruto]]>
-            </answer>
-	    <answer>
                 <![CDATA[]]>
-            </answer>
-	    <answer>
-                <![CDATA[est laborum]]>
             </answer>
         </answers>
         <jobad>
-            <id>11276777</id>
+            <id>11276778</id>
             <clientJobId>1459495680</clientJobId>
             <position>Klaabu</position>
-            <url>http://www.cvkeskus.ee/11276777</url>
+            <url>http://www.cvkeskus.ee/11276778</url>
         </jobad>
     </application>
 </applications>
