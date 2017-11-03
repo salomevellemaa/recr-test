@@ -835,4 +835,118 @@
             <url>http://www.cvkeskus.ee/11276776</url>
         </jobad>
     </application>
+    <application id="10289458">
+        <created>2017-10-26 00:01:11</created>
+        <cv>
+            <member_id>1486968</member_id>
+            <cv_id>1198499</cv_id>
+            <cv_lang>
+                <![CDATA[ee]]>
+            </cv_lang>
+            <pdf_url>
+                <![CDATA[www.google.com]]>
+            </pdf_url>
+            <cv_headline>
+                <![CDATA[Mari Kadakas CV]]>
+            </cv_headline>
+            <cv_object>
+                <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum]]>
+            </cv_object>
+            <first_name>
+                <![CDATA[Mari]]>
+            </first_name>
+            <last_name>
+                <![CDATA[Kadakas]]>
+            </last_name>
+            <birthdate>1980-7-7</birthdate>
+            <gender>
+                <![CDATA[naine]]>
+            </gender>
+            <mother_lang>
+                <![CDATA[eesti]]>
+            </mother_lang>
+            <m_status>
+                <![CDATA[vallaline]]>
+            </m_status>
+            <email>mari.kadakas@poleolemas.ee</email>
+            <phone>+372 556-555-85</phone>
+            <address>
+                <![CDATA[Sõpruse pst 57-39, Tallinn]]>
+            </address>
+            <photo></photo>
+            <uploaded_cv_url></uploaded_cv_url>
+            <des_job_cat1>
+                <![CDATA[Assisteerimine / Administreerimine]]>
+            </des_job_cat1>
+            <des_job_title1_0>
+                <![CDATA[arhivaar]]>
+            </des_job_title1_0>
+            <des_job_title1_1>
+                <![CDATA[assistent]]>
+            </des_job_title1_1>
+            <des_job_title1_2>
+                <![CDATA[bibliograaf]]>
+            </des_job_title1_2>
+            <des_job_title1_3>
+                <![CDATA[bürooassistent]]>
+            </des_job_title1_3>
+            <des_job_title1_4>
+                <![CDATA[dokumendihaldur]]>
+            </des_job_title1_4>
+            <work_arr_0>
+                <![CDATA[palgatöötaja]]>
+            </work_arr_0>
+            <work_arr_1>
+                <![CDATA[lepinguline]]>
+            </work_arr_1>
+            <time_of_work_0>
+                <![CDATA[täistööaeg]]>
+            </time_of_work_0>
+            <time_of_work_1>
+                <![CDATA[]]>
+            </time_of_work_1>
+            <sal_sum>1200</sal_sum>
+            <sal_currency>1</sal_currency>
+            <sal_period>3</sal_period>
+            <sal_type>1</sal_type>
+            <des_loc_city_0>
+                <![CDATA[Tallinn]]>
+            </des_loc_city_0>
+            <elem_edu>1</elem_edu>
+            <elem_country_0>
+                <![CDATA[Eesti]]>
+            </elem_country_0>
+            <elem_inst_0>
+                <![CDATA[ttü]]>
+            </elem_inst_0>
+            <elem_period_0>1989-2001</elem_period_0>
+            <sec_edu>1</sec_edu>
+            <sec_country_0>
+                <![CDATA[Eesti]]>
+            </sec_country_0>      
+        </cv>
+        <answers>
+            <answer>
+                <![CDATA[halb halb]]>
+            </answer>
+            <answer>
+                <![CDATA[Hommik]]>
+            </answer>
+            <answer>
+                <![CDATA[1000 eur bruto]]>
+            </answer>
+	    <answer>
+                <![CDATA[]]>
+            </answer>
+	    <answer>
+                <![CDATA[est laborum]]>
+            </answer>
+        </answers>
+        <jobad>
+            <id>11276777</id>
+            <clientJobId>1459495680</clientJobId>
+            <position>Klaabu</position>
+            <url>http://www.cvkeskus.ee/11276777</url>
+        </jobad>
+    </application>
 </applications>
