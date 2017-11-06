@@ -1047,10 +1047,11 @@
             <position>Klaabu</position>
             <url>http://www.cvkeskus.ee/11276779</url>
         </jobad>
-    </application>    <application id="10289458">
+    </application>    
+	<application id="10289459">
         <created>2017-10-26 00:01:11</created>
         <cv>
-            <member_id>1486968</member_id>
+            <member_id>1486969</member_id>
             <cv_id>1198499</cv_id>
             <cv_lang>
                 <![CDATA[ee]]>
