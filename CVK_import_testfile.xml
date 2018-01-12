@@ -1453,11 +1453,11 @@
             <url>http://www.cvkeskus.ee/11276780</url>
         </jobad>
     </application> 
-    <application id="10289461">
+    <application id="103459461">
         <created>2017-10-16 00:01:11</created>
         <cv>
-            <member_id>1486431</member_id>
-            <cv_id>1191502</cv_id>
+            <member_id>8426431</member_id>
+            <cv_id>1482502</cv_id>
             <cv_lang>
                 <![CDATA[ru]]>
             </cv_lang>
@@ -1561,7 +1561,7 @@
             </answer>
         </answers>
         <jobad>
-            <id>11276780</id>
+            <id>1127673480</id>
             <clientJobId>1459495680</clientJobId>
             <position>Klaabu</position>
             <url>http://www.cvkeskus.ee/11276780</url>
