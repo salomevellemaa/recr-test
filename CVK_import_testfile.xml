@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <applications>
+	<application id="10526674">
+		<created>2018-01-22 16:10:33</created>
+		<cv>
+		<member_id>721531</member_id>
+		<cv_id>1315198</cv_id>
+		<cv_lang>ee</cv_lang>
+		<appl_url>https://www.cvkeskus.ee/sd_application.php?appl_id=10526674&token=vx23y3p2zbws51bo1e246b0f67o7yjwz</appl_url>
+		<pdf_url>https://www.cvkeskus.ee/pdf_cv.php?appl_id=10526674&token=vx23y3p2zbws51bo1e246b0f67o7yjwz</pdf_url>
+		<cv_headline>Olen avatud uutele kogemustele!</cv_headline>
+		<cv_object>Eesmärgiks on proovida uusi asju elus ning saada rohkem kogemusi erinevates valdkondades,</cv_object>
+		<first_name>Lilla</first_name>
+		<last_name>Vaal</last_name>
+		<birthdate>1990-3-2</birthdate>
+		<gender>naine</gender>
+		<mother_lang>eesti</mother_lang>
+		<m_status>abielus</m_status>
+		<email>lilla.vaal@gmail.com</email>
+		<phone>56810239</phone>
+		<address>Rapla maakond, Rapla linn, Piiri 2-4</address>
+		<photo/>
+		<uploaded_cv_url/>
+		<des_job_cat1>Klienditeenindus</des_job_cat1>
+		<des_job_title1_0>klienditeenindaja</des_job_title1_0>
+		<work_arr_0>palgatöötaja</work_arr_0>
+		<time_of_work_0>täistööaeg</time_of_work_0>
+		<time_of_work_1></time_of_work_1>
+		<des_loc_city_0>Raplamaa</des_loc_city_0>
+		<elem_edu>1</elem_edu><elem_country_0>Eesti</elem_country_0>
+		<elem_inst_0>Rapla täiskasvanute Gümnaasium</elem_inst_0>
+		<elem_period_0>2010-2011</elem_period_0>
+		<sec_edu>1</sec_edu>
+		<sec_country_0>Eesti</sec_country_0>
+		<sec_inst_0>Rapla täiskasvanute Gümnaasium</sec_inst_0>
+		<sec_period_0>2017-</sec_period_0>
+		<voc_edu/><high_edu/>
+		<publications></publications>
+		<work_seniority>5 - 10 aastat</work_seniority>
+		<work_comp_country_0>Eesti</work_comp_country_0>
+		<work_comp_name_0>Selver Rapla</work_comp_name_0>
+		<work_comp_cat_0>Klienditeenindus</work_comp_cat_0>
+		<work_job_title_0>klienditeenindaja</work_job_title_0>
+		<work_period_0>08.2017 - </work_period_0>
+		<work_job_descr_0>Teenindan kliente nii saalis kui ka aegajalt kassas.</work_job_descr_0>
+		<work_comp_country_1>Eesti</work_comp_country_1>
+		<work_comp_name_1>Realiseerimiskeskus OÜ</work_comp_name_1>
+		<work_comp_cat_1>Klienditeenindus</work_comp_cat_1>
+		<work_job_title_1>klienditeenindaja</work_job_title_1>
+		<work_period_1>09.2012 - 08.2017</work_period_1>
+		<work_job_descr_1>Töötan nii saali peal kui ka kassas!</work_job_descr_1>
+		<work_comp_country_2>Eesti</work_comp_country_2>
+		<work_comp_name_2>Maxima (Rapla)</work_comp_name_2>
+		<work_comp_cat_2>Klienditeenindus</work_comp_cat_2>
+		<work_job_title_2>klienditeenindaja</work_job_title_2>
+		<work_period_2>09.2011 - 10.2012</work_period_2>
+		<work_job_descr_2>Olin nii kassas kui ka saali peal.</work_job_descr_2>
+		<drv_since_year_0>2012</drv_since_year_0><drv_license_0>B</drv_license_0>
+		</cv>
+		<jobad><id>515274</id>
+			<clientJobId>1459495680</clientJobId>
+			<position>Klaabu</position>
+			<url>http://www.cvkeskus.ee/515274</url>
+		</jobad>
+	</application>
 	<application id="10289457">
         <created>2018-01-29 11:37:21</created>
         <cv>
@@ -40,482 +103,6 @@
             </address>
             <photo>http://www.cvkeskus.ee/snap_cv_photos/2017/26/2290716-bbda5815.jpg</photo>
             <uploaded_cv_url></uploaded_cv_url>
-            <des_job_cat1>
-                <![CDATA[Assisteerimine / Administreerimine]]>
-            </des_job_cat1>
-            <des_job_title1_0>
-                <![CDATA[arhivaar]]>
-            </des_job_title1_0>
-            <des_job_title1_1>
-                <![CDATA[assistent]]>
-            </des_job_title1_1>
-            <des_job_title1_2>
-                <![CDATA[bibliograaf]]>
-            </des_job_title1_2>
-            <des_job_title1_3>
-                <![CDATA[bürooassistent]]>
-            </des_job_title1_3>
-            <des_job_title1_4>
-                <![CDATA[dokumendihaldur]]>
-            </des_job_title1_4>
-            <work_arr_0>
-                <![CDATA[palgatöötaja]]>
-            </work_arr_0>
-            <work_arr_1>
-                <![CDATA[lepinguline]]>
-            </work_arr_1>
-            <time_of_work_0>
-                <![CDATA[täistööaeg]]>
-            </time_of_work_0>
-            <time_of_work_1>
-                <![CDATA[]]>
-            </time_of_work_1>
-            <sal_sum>1200</sal_sum>
-            <sal_currency>1</sal_currency>
-            <sal_period>3</sal_period>
-            <sal_type>1</sal_type>
-            <des_loc_city_0>
-                <![CDATA[Tallinn]]>
-            </des_loc_city_0>
-            <elem_edu>1</elem_edu>
-            <elem_country_0>
-                <![CDATA[Eesti]]>
-            </elem_country_0>
-            <elem_inst_0>
-                <![CDATA[Porkuni Kool (endine Porkuni Kurtide Kool)]]>
-            </elem_inst_0>
-            <elem_period_0>1989-2001</elem_period_0>
-            <sec_edu>1</sec_edu>
-            <sec_country_0>
-                <![CDATA[Eesti]]>
-            </sec_country_0>
-            <sec_inst_0>
-                <![CDATA[Tallinna Kurtide Kool (praegune Tallinna Heleni Kool)]]>
-            </sec_inst_0>
-            <sec_period_0>2001-2004</sec_period_0>
-            <voc_edu></voc_edu>
-            <high_edu>1</high_edu>
-            <high_country_0>
-                <![CDATA[Eesti]]>
-            </high_country_0>
-            <high_inst_0>
-                <![CDATA[Tartu Ülikool]]>
-            </high_inst_0>
-            <high_period_0>2013-2017</high_period_0>
-            <high_level_0>
-                <![CDATA[]]>
-            </high_level_0>
-            <high_spec_field_0>
-                <![CDATA[]]>
-            </high_spec_field_0>
-            <high_spec_0>
-                <![CDATA[Arheoloogia]]>
-            </high_spec_0>
-            <high_degree_0>
-                <![CDATA[magistrikraad]]>
-            </high_degree_0>
-            <minor_spec_0>
-                <![CDATA[]]>
-            </minor_spec_0>
-            <minor_field_0>
-                <![CDATA[]]>
-            </minor_field_0>
-            <high_country_1>
-                <![CDATA[Eesti]]>
-            </high_country_1>
-            <high_inst_1>
-                <![CDATA[Tallinna Ülikool (endine Tallinna Pedagoogikaülikool)]]>
-            </high_inst_1>
-            <high_period_1>2004-2007</high_period_1>
-            <high_level_1>
-                <![CDATA[]]>
-            </high_level_1>
-            <high_spec_field_1>
-                <![CDATA[]]>
-            </high_spec_field_1>
-            <high_spec_1>
-                <![CDATA[Arheoloogia]]>
-            </high_spec_1>
-            <high_degree_1>
-                <![CDATA[bakalaureusekraad]]>
-            </high_degree_1>
-            <minor_spec_1>
-                <![CDATA[Ajalugu]]>
-            </minor_spec_1>
-            <minor_field_1>
-                <![CDATA[]]>
-            </minor_field_1>
-            <org_name_0>
-                <![CDATA[Eesti Kurtide Noorte Organisatsioon]]>
-            </org_name_0>
-            <org_role_0>
-                <![CDATA[Liige]]>
-            </org_role_0>
-            <org_period_0>2007 - 2010</org_period_0>
-            <org_name_1>
-                <![CDATA[Lääne-Virumaa Kurtide Ühing]]>
-            </org_name_1>
-            <org_role_1>
-                <![CDATA[Liige, reviskomisjoniliige, juhatuse liige]]>
-            </org_role_1>
-            <org_period_1>2003 - 2010</org_period_1>
-            <publications>
-		    </publications>
-            <work_seniority>
-                <![CDATA[15 - 25 aastat]]>
-            </work_seniority>
-            <work_comp_country_0>
-                <![CDATA[Eesti]]>
-            </work_comp_country_0>
-            <work_comp_name_0>
-                <![CDATA[Printon AS]]>
-            </work_comp_name_0>
-            <work_comp_cat_0>
-                <![CDATA[Tööstus / Tootmine]]>
-            </work_comp_cat_0>
-            <work_job_title_0>
-                <![CDATA[lamineerija]]>
-            </work_job_title_0>
-            <work_period_0>
-                <![CDATA[04.2016 - ]]>
-            </work_period_0>
-            <work_job_descr_0>
-                <![CDATA[Kaante lamineerimine, kaante jaoks papi lõikamine.]]>
-            </work_job_descr_0>
-            <work_comp_country_1>
-                <![CDATA[Eesti]]>
-            </work_comp_country_1>
-            <work_comp_name_1>
-                <![CDATA[Abc Supermarkets]]>
-            </work_comp_name_1>
-            <work_comp_cat_1>
-                <![CDATA[Müük]]>
-            </work_comp_cat_1>
-            <work_job_title_1>
-                <![CDATA[Klienditeenindaja]]>
-            </work_job_title_1>
-            <work_period_1>
-                <![CDATA[06.2015 - 04.2016]]>
-            </work_period_1>
-            <work_job_descr_1>
-                <![CDATA[Töö jookide osakonnas. Õlle-, siidri-, mineraalvee-, limonaadi- ja karastusjoogipudelite paigutamine riiulitele. Selle eest, et riiulid oleksid alati täis, hoolitsemine.]]>
-            </work_job_descr_1>
-            <work_comp_country_2>
-                <![CDATA[Eesti]]>
-            </work_comp_country_2>
-            <work_comp_name_2>
-                <![CDATA[Agu EMS OÜ]]>
-            </work_comp_name_2>
-            <work_comp_cat_2>
-                <![CDATA[Ehitus / Kinnisvara]]>
-            </work_comp_cat_2>
-            <work_job_title_2>
-                <![CDATA[Arheoloog-kontoritöötaja]]>
-            </work_job_title_2>
-            <work_period_2>
-                <![CDATA[05.2008 - 06.2015]]>
-            </work_period_2>
-            <work_job_descr_2>
-                <![CDATA[Leidude fikseerimine ja numereerimine, leiunimekirja koostamine, välitööl osalemine, tabelite koostamine, leidude karpide korrastamine, etikettide tegemine, suvised väljakaevamised.]]>
-            </work_job_descr_2>
-            <work_comp_country_3>
-                <![CDATA[Eesti]]>
-            </work_comp_country_3>
-            <work_comp_name_3>
-                <![CDATA[Kärdla linnaraamatukogu]]>
-            </work_comp_name_3>
-            <work_comp_cat_3>
-                <![CDATA[Haridus / Teadus]]>
-            </work_comp_cat_3>
-            <work_job_title_3>
-                <![CDATA[vabatahtlik]]>
-            </work_job_title_3>
-            <work_period_3>
-                <![CDATA[08.2014 - 08.2014]]>
-            </work_period_3>
-            <work_job_descr_3>
-                <![CDATA[Teenindaja Kärdla kohvikute päeval. Laudadelt nõude korjamine, laudade korrastamine, nõude pesemine, nõude kuivatamine.]]>
-            </work_job_descr_3>
-            <work_comp_country_4>
-                <![CDATA[Eesti]]>
-            </work_comp_country_4>
-            <work_comp_name_4>
-                <![CDATA[MTÜ Puerto]]>
-            </work_comp_name_4>
-            <work_comp_cat_4>
-                <![CDATA[Haridus / Teadus]]>
-            </work_comp_cat_4>
-            <work_job_title_4>
-                <![CDATA[Projektijuht]]>
-            </work_job_title_4>
-            <work_period_4>
-                <![CDATA[04.2007 - 12.2012]]>
-            </work_period_4>
-            <work_job_descr_4>
-                <![CDATA[Puuetega noorte huvitegevus, projektijuht.]]>
-            </work_job_descr_4>
-            <work_comp_country_5>
-                <![CDATA[Eesti]]>
-            </work_comp_country_5>
-            <work_comp_name_5>
-                <![CDATA[MTÜ Pimedate Ööde Filmifestival]]>
-            </work_comp_name_5>
-            <work_comp_cat_5>
-                <![CDATA[Kultuur / Meelelahutus]]>
-            </work_comp_cat_5>
-            <work_job_title_5>
-                <![CDATA[vabatahtlik]]>
-            </work_job_title_5>
-            <work_period_5>
-                <![CDATA[11.2006 - 11.2012]]>
-            </work_period_5>
-            <work_job_descr_5>
-                <![CDATA[Saali korrashoidmine, piletite kontroll, klientide teenindamine, kaelakaartide trükkimine, piletite trükkimine.]]>
-            </work_job_descr_5>
-            <work_comp_country_6>
-                <![CDATA[Eesti]]>
-            </work_comp_country_6>
-            <work_comp_name_6>
-                <![CDATA[Rakvere Lihakombinaat]]>
-            </work_comp_name_6>
-            <work_comp_cat_6>
-                <![CDATA[Tööstus / Tootmine]]>
-            </work_comp_cat_6>
-            <work_job_title_6>
-                <![CDATA[Abitööline haljastuse alal]]>
-            </work_job_title_6>
-            <work_period_6>
-                <![CDATA[06.1995 - 08.2000]]>
-            </work_period_6>
-            <work_job_descr_6>
-                <![CDATA[Niitmine muruniiduki ja trimmeriga. Töötasin ainult suviti.]]>
-            </work_job_descr_6>
-            <ref_name_0>
-                <![CDATA[Raivo Raam]]>
-            </ref_name_0>
-            <ref_phone_0>+3725582652</ref_phone_0>
-            <ref_mail_0>raivoraam@yahoo.co.uk</ref_mail_0>
-            <ref_relat_0>
-                <![CDATA[koostööpartner]]>
-            </ref_relat_0>
-            <lang_name_0>
-                <![CDATA[muu]]>
-            </lang_name_0>
-            <lang_under_0>
-                <![CDATA[C2]]>
-            </lang_under_0>
-            <lang_speak_0>
-                <![CDATA[C1]]>
-            </lang_speak_0>
-            <lang_write_0>
-                <![CDATA[C2]]>
-            </lang_write_0>
-            <lang_read_0>
-                <![CDATA[C2]]>
-            </lang_read_0>
-            <lang_speakprod_0>
-                <![CDATA[C1]]>
-            </lang_speakprod_0>
-            <lang_info_0>
-                <![CDATA[Eesti viipekeel]]>
-            </lang_info_0>
-            <lang_name_1>
-                <![CDATA[eesti]]>
-            </lang_name_1>
-            <lang_under_1>
-                <![CDATA[C1]]>
-            </lang_under_1>
-            <lang_speak_1>
-                <![CDATA[A1]]>
-            </lang_speak_1>
-            <lang_write_1>
-                <![CDATA[C1]]>
-            </lang_write_1>
-            <lang_read_1>
-                <![CDATA[C2]]>
-            </lang_read_1>
-            <lang_speakprod_1>
-                <![CDATA[A1]]>
-            </lang_speakprod_1>
-            <lang_info_1>
-                <![CDATA[Eesti kirjalik keel]]>
-            </lang_info_1>
-            <lang_name_2>
-                <![CDATA[inglise]]>
-            </lang_name_2>
-            <lang_under_2>
-                <![CDATA[B2]]>
-            </lang_under_2>
-            <lang_speak_2>
-                <![CDATA[B1]]>
-            </lang_speak_2>
-            <lang_write_2>
-                <![CDATA[B1]]>
-            </lang_write_2>
-            <lang_read_2>
-                <![CDATA[B2]]>
-            </lang_read_2>
-            <lang_speakprod_2>
-                <![CDATA[B1]]>
-            </lang_speakprod_2>
-            <lang_info_2>
-                <![CDATA[]]>
-            </lang_info_2>
-            <lang_name_3>
-                <![CDATA[saksa]]>
-            </lang_name_3>
-            <lang_under_3>
-                <![CDATA[A1]]>
-            </lang_under_3>
-            <lang_speak_3>
-                <![CDATA[A1]]>
-            </lang_speak_3>
-            <lang_write_3>
-                <![CDATA[A1]]>
-            </lang_write_3>
-            <lang_read_3>
-                <![CDATA[A1]]>
-            </lang_read_3>
-            <lang_speakprod_3>
-                <![CDATA[A1]]>
-            </lang_speakprod_3>
-            <lang_info_3>
-                <![CDATA[]]>
-            </lang_info_3>
-            <comp_cat_0>
-                <![CDATA[Riistvara]]>
-            </comp_cat_0>
-            <comp_prog_0>
-                <![CDATA[Arvutite komplekteerimine]]>
-            </comp_prog_0>
-            <comp_level_0>
-                <![CDATA[Edasijõudnu]]>
-            </comp_level_0>
-            <comp_cat_1>
-                <![CDATA[CAD-süsteemid]]>
-            </comp_cat_1>
-            <comp_prog_1>
-                <![CDATA[AutoCAD]]>
-            </comp_prog_1>
-            <comp_level_1>
-                <![CDATA[Kesktase]]>
-            </comp_level_1>
-            <comp_cat_2>
-                <![CDATA[Veebilehitseja]]>
-            </comp_cat_2>
-            <comp_prog_2>
-                <![CDATA[Google Chrome]]>
-            </comp_prog_2>
-            <comp_level_2>
-                <![CDATA[Algtase]]>
-            </comp_level_2>
-            <comp_cat_3>
-                <![CDATA[Veebilehitseja]]>
-            </comp_cat_3>
-            <comp_prog_3>
-                <![CDATA[Internet Explorer]]>
-            </comp_prog_3>
-            <comp_level_3>
-                <![CDATA[Spetsialist]]>
-            </comp_level_3>
-            <comp_cat_4>
-                <![CDATA[Riistvara]]>
-            </comp_cat_4>
-            <comp_prog_4>
-                <![CDATA[Kaabeldamine]]>
-            </comp_prog_4>
-            <comp_level_4>
-                <![CDATA[Edasijõudnu]]>
-            </comp_level_4>
-            <comp_cat_5>
-                <![CDATA[Operatsioonisüsteemid]]>
-            </comp_cat_5>
-            <comp_prog_5>
-                <![CDATA[Linux]]>
-            </comp_prog_5>
-            <comp_level_5>
-                <![CDATA[Algtase]]>
-            </comp_level_5>
-            <comp_cat_6>
-                <![CDATA[Kontoritarkvara]]>
-            </comp_cat_6>
-            <comp_prog_6>
-                <![CDATA[MS Excel]]>
-            </comp_prog_6>
-            <comp_level_6>
-                <![CDATA[Spetsialist]]>
-            </comp_level_6>
-            <comp_cat_7>
-                <![CDATA[Kontoritarkvara]]>
-            </comp_cat_7>
-            <comp_prog_7>
-                <![CDATA[MS PowerPoint]]>
-            </comp_prog_7>
-            <comp_level_7>
-                <![CDATA[Spetsialist]]>
-            </comp_level_7>
-            <comp_cat_8>
-                <![CDATA[Kontoritarkvara]]>
-            </comp_cat_8>
-            <comp_prog_8>
-                <![CDATA[MS Word]]>
-            </comp_prog_8>
-            <comp_level_8>
-                <![CDATA[Spetsialist]]>
-            </comp_level_8>
-            <comp_cat_9>
-                <![CDATA[Veebilehitseja]]>
-            </comp_cat_9>
-            <comp_prog_9>
-                <![CDATA[Mozilla Firefox]]>
-            </comp_prog_9>
-            <comp_level_9>
-                <![CDATA[Spetsialist]]>
-            </comp_level_9>
-            <comp_cat_10>
-                <![CDATA[Riistvara]]>
-            </comp_cat_10>
-            <comp_prog_10>
-                <![CDATA[Võrguseadmed]]>
-            </comp_prog_10>
-            <comp_level_10>
-                <![CDATA[Tavakasutaja]]>
-            </comp_level_10>
-            <comp_cat_11>
-                <![CDATA[Operatsioonisüsteemid]]>
-            </comp_cat_11>
-            <comp_prog_11>
-                <![CDATA[Windows 2000/XP]]>
-            </comp_prog_11>
-            <comp_level_11>
-                <![CDATA[Kesktase]]>
-            </comp_level_11>
-            <comp_cat_12>
-                <![CDATA[Operatsioonisüsteemid]]>
-            </comp_cat_12>
-            <comp_prog_12>
-                <![CDATA[Windows 7]]>
-            </comp_prog_12>
-            <comp_level_12>
-                <![CDATA[Kesktase]]>
-            </comp_level_12>
-            <comp_cat_13>
-                <![CDATA[Operatsioonisüsteemid]]>
-            </comp_cat_13>
-            <comp_prog_13>
-                <![CDATA[Windows 95/98]]>
-            </comp_prog_13>
-            <comp_level_13>
-                <![CDATA[Kesktase]]>
-            </comp_level_13>
-            <drv_since_year_0>2008</drv_since_year_0>
-            <drv_license_0>
-                <![CDATA[B1]]>
-            </drv_license_0>
-            <drv_since_year_1>2008</drv_since_year_1>
-            <drv_license_1>
-                <![CDATA[B]]>
-            </drv_license_1>
         </cv>
 		<mot_letter>
 			See on üks suur Lorem Ipsum Mot letter.
