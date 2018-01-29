@@ -104,9 +104,9 @@
             <photo>http://www.cvkeskus.ee/snap_cv_photos/2017/26/2290716-bbda5815.jpg</photo>
             <uploaded_cv_url></uploaded_cv_url>
         </cv>
-		<mot_letter>
-			See on üks suur Lorem Ipsum Mot letter.
-		</mot_letter>
+	<mot_letter>
+		See on üks suur Lorem Ipsum Mot letter. 
+	</mot_letter>
         <answers>
             <answer>
                 <![CDATA[E-R kl 9-17 русский язык ]]>
@@ -401,6 +401,9 @@
                 <![CDATA[Eesti]]>
             </work_comp_country_6>         
         </cv>
+	    <mot_letter>
+		See on üks suur Lorem Ipsum Mot letter. >
+	    </mot_letter>
         <answers>
             <answer>
                 <![CDATA[E-R kl 9-17]]>
