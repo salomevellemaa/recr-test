@@ -143,10 +143,10 @@
                 <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum]]>
             </cv_object>
             <first_name>
-                <![CDATA[Mari]]>
+                <![CDATA[Kollane]]>
             </first_name>
             <last_name>
-                <![CDATA[Kadakas]]>
+                <![CDATA[Jõehobu]]>
             </last_name>
             <birthdate>1980-7-7</birthdate>
             <gender>
@@ -158,8 +158,8 @@
             <m_status>
                 <![CDATA[vallaline]]>
             </m_status>
-            <email>mari.kadakas@poleolemas.ee</email>
-            <phone>+372 556-555-85</phone>
+            <email>kollane.jyehobu@poleolemas.ee</email>
+            <phone>+372 556-741-85</phone>
             <address>
                 <![CDATA[Sõpruse pst 57-39, Tallinn]]>
             </address>
@@ -402,7 +402,7 @@
             </work_comp_country_6>         
         </cv>
 	    <mot_letter>
-		See on üks suur Lorem Ipsum Mot letter. >
+		See on üks suur Lorem Ipsum Mot letter. 
 	    </mot_letter>
         <answers>
             <answer>
