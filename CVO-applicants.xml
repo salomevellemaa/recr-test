@@ -1,6 +1,3 @@
-
-
-<?xml version="1.0" encoding="UTF-8"?>
 <applications>
    <application>
       <application_id>5734108</application_id>
@@ -374,8 +371,7 @@ Market analysis and price comparison</work_job_descr_4>
          <drv_license_3>T</drv_license_3>
       </cv>
    </application>
-      </application>
-      <application>
+   <application>
       <application_id>5723433343626</application_id>
       <jobad>
          <id>3823462063</id>
